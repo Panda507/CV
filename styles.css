@@ -113,3 +113,19 @@ hr {
   cursor: pointer;
   text-align: center;
 }
+
+.bottom-container {
+  background-color: #2bb2bb;
+  padding: 50px;
+}
+
+.Trademark {
+  color: #EAF6F6;
+}
+
+.footer-link {
+  color: #3f4441;
+  position: relative;
+  margin-left: 150px;
+  margin-right: 150px;
+}
